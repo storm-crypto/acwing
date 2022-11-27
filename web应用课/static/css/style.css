@@ -10,3 +10,11 @@ p {
     height: 70px;
     background-color: chocolate;
 }
+
+#mydiv {
+    background-color: black;
+}
+
+#myp {
+    background-color: blueviolet;
+}
