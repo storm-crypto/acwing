@@ -11,12 +11,18 @@ p {
     background-color: chocolate;
 }
 
-.effect:hover {
-    transform: scale(1.1);
-    transition: 200ms;
+a:link {
+    color: rebeccapurple;
 }
 
-#mydiv:hover {
-    background-color: lightblue;
-    transition: 2000ms;
+a:visited {
+    color: olive;
+}
+
+a:hover {
+    color: green;
+}
+
+a:active() {
+    color: cadetblue;
 }
