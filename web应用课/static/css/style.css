@@ -11,11 +11,12 @@ p {
     background-color: chocolate;
 }
 
-.red-tag {
-    background-color: lightcoral;
+.effect:hover {
+    transform: scale(1.1);
+    transition: 200ms;
 }
 
-.big-tag {
-    width: 120px;
-    height: 120px;
+#mydiv:hover {
+    background-color: lightblue;
+    transition: 2000ms;
 }
