@@ -11,10 +11,11 @@ p {
     background-color: chocolate;
 }
 
-#mydiv {
-    background-color: black;
+.red-tag {
+    background-color: lightcoral;
 }
 
-#myp {
-    background-color: blueviolet;
+.big-tag {
+    width: 120px;
+    height: 120px;
 }
