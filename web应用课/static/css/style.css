@@ -3,6 +3,7 @@ h4 {
 }
 
 .mydiv {
-    text-align: center;
-    font-size: 200%;
+    height: 10vh;
+    width: 60vw;
+    background-color: aqua;
 }
