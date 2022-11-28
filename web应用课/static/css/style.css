@@ -3,7 +3,10 @@ h4 {
 }
 
 .mydiv {
-    height: 10vh;
-    width: 60vw;
-    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    background-image: url('/static/images/mountain.jpg');
+    background-color: lightblue;
+    background-size: 100px;
+    background-repeat: no-repeat;
 }
