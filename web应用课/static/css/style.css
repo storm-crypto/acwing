@@ -4,4 +4,7 @@ h4 {
 
 .mydiv {
     text-align: center;
+    line-height: 200px;
+    background-color: lightblue;
+    height: 200px;
 }
