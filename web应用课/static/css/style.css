@@ -9,5 +9,9 @@
     width: 100px;
     height: 100px;
     background-color: darkred;
-    margin: 20px auto;
+    color: white;
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+    padding: 10px;
+    border: 10px solid black;
 }
